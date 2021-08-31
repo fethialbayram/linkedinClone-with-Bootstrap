@@ -1,4 +1,4 @@
-# linkedinbootstrapclone
-#### [Live Preview](https://bootstraplinkedinclone.netlify.app/)
-Simple Linkedin clone made with Bootstrap.
+# linkedin-bootstrap-clone
+
+designed simple linkedin clone with bootstrap
 
